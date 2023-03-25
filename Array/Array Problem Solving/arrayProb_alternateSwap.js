@@ -7,7 +7,6 @@
 // 		arr[i + 1] = temp
 // 	}
 // }
-
 // console.log(arr)
 
 const arr = [1, 3, 1, 3, 2]
